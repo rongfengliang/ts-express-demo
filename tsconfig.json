@@ -6,8 +6,9 @@
     "outDir": "./dist",                         
     "removeComments": true,                 
     "strict": true,                           
-    "rootDirs": [],                     
-    "esModuleInterop": true,                    
+    "rootDirs": [],
+    "esModuleInterop": true,  
+    "importHelpers": true,   
     "experimentalDecorators": true,         
     "emitDecoratorMetadata": true     
   }
